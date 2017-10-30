@@ -10,7 +10,8 @@ namespace RockPaperScissor
     {
         static void Main(string[] args)
         {
-           
+            Game sheldonGame = new Game();
+            sheldonGame.ChooseNumberOfPlayers();
         }
     }
 }
