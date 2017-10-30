@@ -6,7 +6,26 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissor
 {
-    class Game
+     public class Game
     {
+        public Game()
+        {
+            Player player;
+            Human human;
+        }
+     
+       public void ChooseCharacter()
+        {
+           
+            Player player;
+            Human human;
+
+           
+           
+            
+
+            
+        }
+        
     }
 }

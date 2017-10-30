@@ -10,6 +10,7 @@ namespace RockPaperScissor
     {
         static void Main(string[] args)
         {
+           
         }
     }
 }

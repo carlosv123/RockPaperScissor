@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissor
 {
-    class Computer
+   public class Computer
     {
+        public Computer()
+        {
+
+        }
     }
 }
